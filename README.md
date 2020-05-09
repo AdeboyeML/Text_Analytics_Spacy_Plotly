@@ -10,6 +10,7 @@
 - Extract out the interaction between the top characters if any, i.e. check if two characters appear in the same sentences
 - Check the Gender distribution based on the characters in the Novel
 - Extract out sentences where characters are the "Subject" and the corresponding "action verbs" used by them
+
 ### Steps Ahead:
 - Convert PDF Book(.pdf) to Text Format (.txt)
 - Data Cleaning with Regex (Regular Expression)
@@ -21,7 +22,7 @@
 - Dependency parsing -- to extract sentences where characters are the "Subject" of Sentences
 . Character's action visualization
 
-### Tools utilized: Spacy, NLTK, Ploty, Seaborn, Regex
+### ***Tools utilized: Python libraries:  Spacy, NLTK, Ploty, Seaborn, Regex***
 
 ### ***Note: All the codes are ran from the following python modules: pdf_to_txt.py, txt_extract.py, gender.py, text_plots.py, subj.py***
 ​
