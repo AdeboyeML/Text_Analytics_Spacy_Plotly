@@ -2,9 +2,9 @@
 
 ### Highly Recommended: The graphs/plots in the notebook can be viewed using this link: 
 
-- Fight Club Analytics [nbviewer](https://nbviewer.jupyter.org/github/AdeboyeML/Text_Analytics_Spacy_Plotly/blob/054b26e1c0f64fc8f5cb21bc90e113c1fc1ed2ed/FightClub_Novel_Analytics.ipynb),
+- **Fight Club Novel Analytics [nbviewer](https://nbviewer.jupyter.org/github/AdeboyeML/Text_Analytics_Spacy_Plotly/blob/054b26e1c0f64fc8f5cb21bc90e113c1fc1ed2ed/FightClub_Novel_Analytics.ipynb),**
 
-- Martian Novel Analytics [nbviewer](https://nbviewer.jupyter.org/github/AdeboyeML/Text_Analytics_Spacy_Plotly/blob/054b26e1c0f64fc8f5cb21bc90e113c1fc1ed2ed/Martian_Novel_Analytics.ipynb),
+- **Martian Novel Analytics [nbviewer](https://nbviewer.jupyter.org/github/AdeboyeML/Text_Analytics_Spacy_Plotly/blob/054b26e1c0f64fc8f5cb21bc90e113c1fc1ed2ed/Martian_Novel_Analytics.ipynb),**
 
 This is because the plotly graphs cannot be viewed in github.
 
