@@ -1,10 +1,16 @@
 # Text(Book/Novel)_Analytics_Spacy_Plotly
 
-### Highly Recommended: The graphs/plots in the notebook can be viewed using this link: 
+### Highly Recommended: The graphs/plots in the notebook can be viewed using this link (Books/Novels Analysed): 
 
 - **Fight Club Novel Analytics [nbviewer](https://nbviewer.jupyter.org/github/AdeboyeML/Text_Analytics_Spacy_Plotly/blob/054b26e1c0f64fc8f5cb21bc90e113c1fc1ed2ed/FightClub_Novel_Analytics.ipynb),**
 
 - **Martian Novel Analytics [nbviewer](https://nbviewer.jupyter.org/github/AdeboyeML/Text_Analytics_Spacy_Plotly/blob/054b26e1c0f64fc8f5cb21bc90e113c1fc1ed2ed/Martian_Novel_Analytics.ipynb),**
+
+- **The Godfather Novel Analytics [nbviewer](https://nbviewer.jupyter.org/github/AdeboyeML/Text_Analytics_Spacy_Plotly/blob/5fc5f3ad8d3ec80d4ac5226e28b60156d5da42ee/The_Godfather_Novel_Analytics.ipynb),**
+
+- **Silence of the Lambs Novel Analytics [nbviewer](https://nbviewer.jupyter.org/github/AdeboyeML/Text_Analytics_Spacy_Plotly/blob/5fc5f3ad8d3ec80d4ac5226e28b60156d5da42ee/Silence%20of%20the%20Lambs_Novel_Analytics.ipynb),**
+
+- **The Big Short Novel Analytics [nbviewer](https://nbviewer.jupyter.org/github/AdeboyeML/Text_Analytics_Spacy_Plotly/blob/5fc5f3ad8d3ec80d4ac5226e28b60156d5da42ee/The_Big%20Short_Novel_Analytics.ipynb),**
 
 This is because the plotly graphs cannot be viewed in github.
 
@@ -31,5 +37,5 @@ This is because the plotly graphs cannot be viewed in github.
 
 ### ***Tools utilized: Python libraries:  Spacy, NLTK, Ploty, Seaborn, Regex***
 
-### ***Note: All the codes are ran from the following python modules: pdf_to_txt.py, txt_extract.py, gender.py, text_plots.py, subj.py***
+### ***Note: All the codes are ran from the following python modules: pdf_to_txt.py, txt_extract.py, bigsort_txtextract.py, gender.py, text_plots.py, subj.py***
 ​
