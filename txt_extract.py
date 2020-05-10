@@ -89,7 +89,7 @@ class text_extract:
         data_tuples = list(zip(chapters,re_data))
         df_data = pd.DataFrame(data_tuples, columns=['Chapters','Contents'])
         
-        #Extract sentence based on period(.) --> This is not the best approach but it gives consistent results
+        #Extract sentence based on NLTK sentence tokenizer
         sent_data = re.sub(r'[^a-zA-Z0-9.,:?" ]+', '', str(re_data))
         sent_data = sent_tokenize(sent_data)
         
