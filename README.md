@@ -40,6 +40,6 @@ This is because the plotly graphs cannot be viewed in github.
 - Dependency parsing -- to extract sentences where characters are the "Subject" of Sentences
 . Character's action visualization
 
-### ***Tools utilized: Python libraries:  Spacy, NLTK, Ploty, Seaborn, Regex***
+#### ***Tools utilized: Python libraries:  Spacy, NLTK, Ploty, Seaborn, Regex***
 
-### ***Note: All the codes are ran from the following python modules: `pdf_to_txt.py`, `txt_extract.py`, `bigsort_txtextract.py`, `gender.py`, `text_plots.py`, `subj.py`***
+#### ***Note: All the codes are ran from the following python modules: `pdf_to_txt.py`, `txt_extract.py`, `bigsort_txtextract.py`, `gender.py`, `text_plots.py`, `subj.py`***
