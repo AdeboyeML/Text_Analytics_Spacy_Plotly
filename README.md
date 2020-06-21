@@ -1,4 +1,19 @@
+[//]: # (Image References)
+
+[image3]: ./text_viz/newplot (37).png "genderplot"
+[image1]: ./text_viz/newplot (38).png "chrs"
+[image2]: ./text_viz/newplot (39).png "locs"
+[image4]: ./text_viz/newplot (40).png "chrss"
+[image5]: ./text_viz/newplot (41).png "dialogues"
+[image6]: ./text_viz/newplot (42).png "verbs"
+[image7]: ./text_viz/xteractions.png "actions"
+
+
 # Text_Analytics_Spacy_Plotly...
+
+
+**The aim of this text analytics project is to analyse a storybook or novel through extracting out the characters, their dialogue, words/verbs used by them and also to check the locations and time occurences mentioned in the novel.**
+
 
 ### Highly Recommended: The graphs/plots in the notebook can be viewed using this link (Books/Novels Analysed): 
 
@@ -15,7 +30,6 @@
 
 This is because the plotly graphs cannot be viewed in github.
 
-**The aim of this text analytics project is to analyse a storybook or novel through extracting out the characters, their dialogue, words/verbs used by them and also to check the locations and time occurences mentioned in the novel.**
 
 
 ### Objectives:
@@ -38,5 +52,48 @@ This is because the plotly graphs cannot be viewed in github.
 
 ### ***Tools utilized: Python libraries:  Spacy, NLTK, Ploty, Seaborn, Regex***
 
-### ***Note: All the codes are ran from the following python modules: pdf_to_txt.py, txt_extract.py, bigsort_txtextract.py, gender.py, text_plots.py, subj.py***
+### ***Note: All the codes are ran from the following python modules: `pdf_to_txt.py`, `txt_extract.py`, `bigsort_txtextract.py`, `gender.py`, `text_plots.py`, `subj.py`***
+
+
+
+
+### Examples of Text analytics Visualization....
+
+
+
+![genderplots][image3]
+
+
+
+
+![chrs][image1]
+
+
+
+
+
+
+![locs][image2]
+
+
+
+![chrss][image4]
+
+
+
+
+![dialogues][image5]
+
+
+
+
+![verbs][image6]
+
+
+
+![actions][image7]
+
+
+
+
 ​
